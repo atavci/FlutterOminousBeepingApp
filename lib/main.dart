@@ -13,15 +13,13 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Ominous Beeping App',
       theme: ThemeData(primarySwatch: Colors.deepPurple),
-      home: MyHomePage(title: 'Flutter Demo Home Page'),
+      home: MyHomePage(),
     );
   }
 }
 
 class MyHomePage extends StatefulWidget {
-  MyHomePage({Key key, this.title}) : super(key: key);
-
-  final String title;
+  MyHomePage({Key key}) : super(key: key);
 
   @override
   _MyHomePageState createState() => _MyHomePageState();
