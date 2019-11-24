@@ -94,7 +94,11 @@ packages:
       name: image
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "2.1.9"
+=======
+    version: "2.1.4"
+>>>>>>> d39a99cf77030ec7166d31789e6551ebf23333d3
   matcher:
     dependency: transitive
     description:
@@ -254,6 +258,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.5.0"
+<<<<<<< HEAD
   yaml:
     dependency: transitive
     description:
@@ -261,6 +266,8 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.2.0"
+=======
+>>>>>>> d39a99cf77030ec7166d31789e6551ebf23333d3
 sdks:
   dart: ">=2.4.0 <3.0.0"
   flutter: ">=1.6.7 <2.0.0"

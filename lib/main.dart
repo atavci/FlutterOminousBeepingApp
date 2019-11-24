@@ -57,7 +57,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       style: TextStyle(
                           color: Color(0xFF98EDBD),
                           fontSize:
-                              5 * (MediaQuery.of(context).size.width / 25),
+                              5 * (MediaQuery.of(context).size.width / 28),
                           fontWeight: FontWeight.w600),
                     ),
                   )
