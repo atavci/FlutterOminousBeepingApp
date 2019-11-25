@@ -130,7 +130,7 @@ class AlertCircles extends StatelessWidget {
                   width: (MediaQuery.of(context).size.width / 100) * 80,
                   height: (MediaQuery.of(context).size.width / 100) * 80,
                   decoration: BoxDecoration(
-                    borderRadius: BorderRadius.circular(150.0),
+                    borderRadius: BorderRadius.circular(200.0),
                     border: Border.all(
                       width: 20.0,
                       color: Colors.red[600],
